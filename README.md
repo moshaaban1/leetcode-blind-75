@@ -10,3 +10,4 @@
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                | Easy       |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                          | Easy       |
 | 49  | [Group Anagram](https://leetcode.com/problems/group-anagrams/)                                         | Medium     |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                    | Easy       |
