@@ -13,3 +13,4 @@
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                    | Easy       |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)            | Medium     |
 | 11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                  | Medium     |
+| 33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)        | Medium     |
